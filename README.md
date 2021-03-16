@@ -4,9 +4,9 @@
 
 
 #hello, my name is João Ferreira AKA Johnny, a student at the Federal Institute of Bahia,
-fluent in both portuguese and english language I'm cpmpletely passionate about coding
+fluent in both portuguese and english language. I'm completely passionate about coding,
 currently studying a lot of the most used technologies in the market. 
-Hope I can show my skills to the world soon as a programmer 😁
+Hope I can show my skills as a programmer to the world soon 😁
 
 
 - 🔭 I’m currently working on my skills as a front-end developer
