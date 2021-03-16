@@ -3,7 +3,7 @@
 ### Good Morning... in case I don't see ya Good Afternoon, Good Evening and Good Night 😜
 
 
-#hello, my name is João Ferreira AKA Johnny, a student at the Federal Institute of Bahia,
+#hello, my name is João Ferreira AKA Johnny, a student at the Federal Institute of Bahia(Major: Information Systems),
 fluent in both portuguese and english language. I'm completely passionate about coding,
 currently studying a lot of the most used technologies in the market. 
 Hope I can show my skills as a programmer to the world soon 😁
@@ -17,4 +17,6 @@ Hope I can show my skills as a programmer to the world soon 😁
 - ⚡ Fun fact: completely in love with Rock N' Roll, gastronomy and russian literature
 -->
 
-![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyfers&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
