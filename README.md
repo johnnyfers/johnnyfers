@@ -9,11 +9,11 @@ currently studying a lot of the most used technologies in the market.
 Hope I can show my skills as a programmer to the world soon 😁
 
 
-- 🔭 I’m currently working on my skills as a front-end developer
+- 🔭 I’m currently working on my skills as a web developer
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on projects whitch will improve my skills
 - 🤝 I’m looking for a remote job as a junior front-end developer
-- 📫 How to reach me: joaovlima07@hotmail.com.
+- 📫 How to reach me: joaovlima07@hotmail.com // www.linkedin.com/in/johnnyfers
 - ⚡ Fun fact: completely in love with Rock N' Roll, gastronomy and russian literature
 -->
 
