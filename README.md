@@ -20,13 +20,14 @@ Hope I can show my skills as a programmer to the world soon 😁
 
 ##Skills set
 
+<div>
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="30" height="30" style="max-width:100%"></img>
 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="30" height="30" style="max-width:100%"></img>
 
 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30" style="max-width:100%"></img>
-
+</div>
 
 
 
