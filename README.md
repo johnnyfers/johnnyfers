@@ -18,5 +18,17 @@ Hope I can show my skills as a programmer to the world soon 😁
 -->
 
 
+##Skills set
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="30" height="30" style="max-width:100%"></img>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="30" height="30" style="max-width:100%"></img>
+
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30" style="max-width:100%"></img>
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
