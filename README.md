@@ -10,7 +10,7 @@ Hope I can show my skills as a programmer to the world soon 😁
 
 
 - 🔭 I’m currently working on my skills as a full-stack developer
-- 🌱 I’m currently learning React JS, Node JS, EJS, MongoDB
+- 🌱 I’m currently learning React JS, Node JS, EJS, MongoDB, Bootstrap
 - 👯 I’m looking to collaborate on projects whitch will improve my skills
 - 🤝 I’m looking for a remote job as a junior full-stack developer
 - 📫 How to reach me: joaovlima07@hotmail.com // www.linkedin.com/in/johnnyfers
