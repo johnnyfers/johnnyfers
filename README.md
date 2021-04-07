@@ -33,4 +33,4 @@ Hope I can show my skills as a programmer to the world soon 😁
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             <img src="https://media.tenor.com/images/ea341b92e5fcc6965324045d263a0962/tenor.gif" width="130" height="140" />
