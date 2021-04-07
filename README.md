@@ -3,7 +3,7 @@
 ### Good Morning... in case I don't see ya Good Afternoon, Good Evening and Good Night 😜
 
 
-Hey ya, my name is João Ferreira AKA Johnny, a student at the Federal Institute of Bahia(Major: Information Systems),
+Hey ya, my name is João Ferreira AKA Johnny, a student at IFBA(Major: Information Systems), 
 fluent in both portuguese and english language. I'm completely passionate about coding,
 currently studying a lot of the most used technologies in the market. 
 Hope I can show my skills as a programmer to the world soon 😁
