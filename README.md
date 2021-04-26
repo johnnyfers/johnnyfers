@@ -3,7 +3,7 @@
 ### #Boost Yourself😜
 
 
-Hey ya, my name is João Ferreira AKA Johnny, a student at IFBA(Major: Information Systems), 
+Hey ya, my name is João Ferreira AKA Johnny, a student from IFBA(Major: Information Systems), 
 fluent in both portuguese and english language. I'm completely passionate about coding,
 currently studying a lot of the most used technologies in the market. 
 Hope I can show my skills as a programmer to the world soon 😁
