@@ -9,10 +9,9 @@ currently studying a lot of the most used technologies in the market.
 Hope I can show my skills as a programmer to the world soon 😁
 
 
-- 🔭 I’m currently working on my skills as a full-stack developer
-- 🌱 I’m currently learning React JS,Bootstrap 4, Node JS, typesctipt, SQL & NoSQL
+- 🔭 I’m currently working as a web developer
+- 🌱 I’m currently learning React JS, NODE JS, React Native
 - 👯 I’m looking to collaborate on projects whitch will improve my skills
-- 🤝 I’m looking for a remote job as a junior full-stack developer
 - 📫 How to reach me: joaovlima07@hotmail.com // www.linkedin.com/in/johnnyfers
 - ⚡ Fun fact: completely in love with Rock N' Roll, gastronomy and russian literature
 -->
