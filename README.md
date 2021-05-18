@@ -32,4 +32,4 @@ Hope I can show my skills as a programmer to the world soon 😁
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             <img src="https://i.pinimg.com/originals/3e/09/60/3e0960925c0d02aff13b72aacda9a26b.gif" width="250" height="140" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)          
