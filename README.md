@@ -33,3 +33,4 @@ Hope I can show my skills as a programmer to the world soon 😁
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)          
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=johnnyfers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
