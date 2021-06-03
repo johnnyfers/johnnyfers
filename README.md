@@ -9,11 +9,10 @@ currently studying a lot of the most used technologies in the market.
 Hope I can show my skills as a programmer to the world soon 😁
 
 
-- 🔭 I’m currently working as a web developer
+- 🔭 I’m currently working as a web developer at Luby Software
 - 🌱 I’m currently learning React JS, NODE JS, React Native, Typescript
 - 👯 I’m looking to collaborate on projects whitch will improve my skills
 - 📫 How to reach me: joaovlima07@hotmail.com // www.linkedin.com/in/johnnyfers
-- ⚡ Fun fact: completely in love with Rock N' Roll, gastronomy and russian literature
 -->
 
 
@@ -33,4 +32,4 @@ Hope I can show my skills as a programmer to the world soon 😁
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)          
-   ![Top Langs](https://github-readme-stats.vercel.app/api?username=johnnyfers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=johnnyfers&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
