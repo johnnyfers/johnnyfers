@@ -6,8 +6,6 @@ currently studying a lot of the most used technologies in the world 😁
 
 
 - 🔭 I’m currently working as a web developer at Luby Software
-- 🌱 I’m currently learning React JS, NODE JS, React Native, Typescript
-- 👯 I’m looking to collaborate on projects whitch will improve my skills
 - 📫 How to reach me: joaovlima07@hotmail.com // www.linkedin.com/in/johnnyfers
 -->
 
