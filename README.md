@@ -1,5 +1,5 @@
 
-<img align="right"  height="490em" src="https://i.pinimg.com/originals/9d/28/60/9d28600ce34bdb5dd2b2ce503797226b.gif" ></img>
+<img align="right"  height="489em" src="https://i.pinimg.com/originals/9d/28/60/9d28600ce34bdb5dd2b2ce503797226b.gif" ></img>
 <p>
   <h4 align="center"><b>hey there, I'm Johnny 👋</b></h1>
 </p>
