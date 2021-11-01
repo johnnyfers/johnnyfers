@@ -24,7 +24,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <div align="center">
 
@@ -48,9 +48,3 @@
 
 <br/>
 
-
-<div align="center">
-
-   &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api?username=johnnyfers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-  
-</div>
