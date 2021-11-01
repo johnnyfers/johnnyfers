@@ -1,6 +1,5 @@
-<div align="center" >
-<img src="https://66.media.tumblr.com/b0160fdb6079dfb0944d642c85eba3fa/tumblr_pl76a0tO8i1vmiunio1_540.gif" ></img>
-</div>
+
+<img align="right"  height="490em" src="https://i.pinimg.com/originals/9d/28/60/9d28600ce34bdb5dd2b2ce503797226b.gif" ></img>
 <p>
   <h4 align="center"><b>hey there, I'm Johnny 👋</b></h1>
 </p>
@@ -10,7 +9,20 @@
 </h4>
 </p>
 
-<hr/>
+
+ <h2></h2>
+
+- 🔥 Back-End Engineer
+
+- 🔭 I’m currently working at Luby Software
+
+- 👨‍💻 Programming since 2019
+
+- 💬 Ask me about **JavaScript, Typescript, Linux, NodeJS**
+
+- ⚡ Anime Enthusiast
+
+<br><br><br><br><br><br>
 
 <div align="center">
 
