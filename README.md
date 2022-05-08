@@ -19,8 +19,6 @@
 - 👨‍💻 Programming since 2019
 
 - 💬 Ask me about **JavaScript, Typescript, Linux, NodeJS**
-
-- ⚡ Anime Enthusiast
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
