@@ -1,5 +1,4 @@
 
-<img align="right"  height="490em" src="https://giffiles.alphacoders.com/162/162110.gif" ></img>
 <p>
   <h4 align="center"><b>hey there, I'm Johnny 👋</b></h1>
 </p>
@@ -11,7 +10,6 @@
 
 
  <h2></h2>
-
 - 🔥 Back-End Engineer
 
 - 🔭 I’m currently working at Luby Software
