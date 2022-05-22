@@ -8,18 +8,18 @@
 </h4>
 </p>
 
-
+<div align="center">
  <h2></h2>
-- 🔥 Back-End Engineer
+ 🔥 Back-End Engineer
 
-- 🔭 I’m currently working at Luby Software
+ 🔭 I’m currently working at Luby Software
 
-- 👨‍💻 Programming since 2019
+ 👨‍💻 Programming since 2019
 
-- 💬 Ask me about **JavaScript, Typescript, Linux, NodeJS**
+ 💬 Ask me about **JavaScript, Typescript, Linux, NodeJS**
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <br><br><br>
 
 <div align="center">
