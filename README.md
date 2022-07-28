@@ -18,7 +18,7 @@
 
  💬 Ask me about **JavaScript, Typescript, Linux, NodeJS**
  
- 🔥 Click <a target="_blank" href="https://django-johnny-personal-website.herokuapp.com/">here</a> to access my personal website.
+ 🔥 Click <a target="_blank" href="https://johnnydevz.herokuapp.com//">here</a> to access my personal website.
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyfers&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
