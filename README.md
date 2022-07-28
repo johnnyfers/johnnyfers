@@ -19,7 +19,7 @@
 
  💬 Ask me about **JavaScript, Typescript, Linux, NodeJS**
  
- 🔥 Click <a target="_blank" href="https://johnnydevz.herokuapp.com//">here</a> to access my personal website.
+ 🔥 Click <a target="_blank" href="https://johnnydevz.herokuapp.com/">here</a> to access my personal website.
 
 
 <br><br><br>
