@@ -17,7 +17,7 @@
 
  👨‍💻 Programming since 2019
 
- 💬 Ask me about **JavaScript, Typescript, Linux, NodeJS**
+ 💬 Ask me about **NodeJS, Linux or Python**
  
  🔥 Click <a target="_blank" href="https://johnnydevz.herokuapp.com">here</a> to access my personal website.
 
