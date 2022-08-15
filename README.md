@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>二&nbsp;&nbsp;&nbsp;兎&nbsp;&nbsp;&nbsp;を&nbsp;&nbsp;&nbsp;追&nbsp;&nbsp;&nbsp;う&nbsp;&nbsp;&nbsp;者&nbsp;&nbsp;&nbsp;は&nbsp;&nbsp;&nbsp;一&nbsp;&nbsp;&nbsp;兎&nbsp;&nbsp;&nbsp;を&nbsp;&nbsp;&nbsp;も&nbsp;&nbsp;&nbsp;得&nbsp;&nbsp;&nbsp;ず&nbsp;&nbsp;&nbsp;<img src="https://1.bp.blogspot.com/-NNTn9C1vlhE/YDf-b6ORWdI/AAAAAAAA4Sw/6oLIomsgVvI4sdOvHzIJMRsCCBRedH1rQCLcBGAsYHQ/s0/Flag_of_Japan.gif" width="30" height="20"/>
+  <h4 align="center"><b>二&nbsp;&nbsp;&nbsp;兎&nbsp;&nbsp;&nbsp;を&nbsp;&nbsp;&nbsp;追&nbsp;&nbsp;&nbsp;う&nbsp;&nbsp;&nbsp;者&nbsp;&nbsp;&nbsp;は&nbsp;&nbsp;&nbsp;一&nbsp;&nbsp;&nbsp;兎&nbsp;&nbsp;&nbsp;を&nbsp;&nbsp;&nbsp;も&nbsp;&nbsp;&nbsp;得&nbsp;&nbsp;&nbsp;ず&nbsp;&nbsp;&nbsp;
 </h4>
 </p>
 
