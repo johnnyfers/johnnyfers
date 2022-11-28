@@ -13,14 +13,12 @@
  🔥 Back-End Engineer
 
 
- 🔭 I’m currently working at Luby Software
+ 🔭 I’m currently working at Bit Capital | AME Digital
 
  👨‍💻 Programming since 2019
 
  💬 Ask me about **NodeJS, Linux or Python**
  
- 🔥 Click <a target="_blank" href="https://johnnydevz.herokuapp.com">here</a> to access my personal website.
-
 
 <br><br><br>
 
