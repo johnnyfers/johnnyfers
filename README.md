@@ -9,18 +9,6 @@
 
 <div align="center">
  <h2></h2>
- 🔥 Back-End Engineer
-
-
- 🔭 I’m currently working at Bit Capital | AME Digital
-
- 👨‍💻 Programming since 2019
-
- 💬 Ask me about **NodeJS, Linux or Python**
- 
-
-<br><br><br>
-
 <div align="center">
 
  ### Tech Stack
